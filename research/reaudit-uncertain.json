@@ -1,0 +1,141 @@
+[
+  {
+    "id": "10-projet-arrete",
+    "title": "Projet d’arrêté portant approbation du document-cadre de l’Aube au titre de l’article L.111-29",
+    "region": "Grand Est",
+    "dept": "10",
+    "org": "DDT de l’Aube",
+    "year": 2025,
+    "type": "Projet d’arrêté et document-cadre",
+    "status": "projet",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Loi APER",
+      "Cartographie"
+    ],
+    "url": "https://www.aube.gouv.fr/contenu/telechargement/41471/294787/file/Projet%20d%27arr%C3%AAt%C3%A9%20portant%20approbationdu%20document-cadre%20au%20titre%20de%20l%27article%20L.111-29%20du%20Code%20de%20l%27urbanisme.pdf",
+    "pdf": "https://www.aube.gouv.fr/contenu/telechargement/41471/294787/file/Projet%20d%27arr%C3%AAt%C3%A9%20portant%20approbationdu%20document-cadre%20au%20titre%20de%20l%27article%20L.111-29%20du%20Code%20de%20l%27urbanisme.pdf",
+    "summary": "Projet de 32 pages comprenant les critères et les treize sites proposés après les consultations préalables. Un arrêté définitif distinct a ensuite été signé le 22 juillet 2025 et publié le 24 juillet 2025.",
+    "utility": "Conserver ce PDF comme version de consultation ; retrouver le PDF final publié au RAA avant de l’utiliser comme décision.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "Le PDF préfectoral est explicitement un projet, avec numéro incomplet et sans signature. L’annexe 13 du cahier des charges CRE PPE2 Sol P9 (PDF officiel publié en 2026, p. 120 du fichier / p. 118 imprimée) donne pour l’Aube : signature du premier arrêté le 22/07/2025 et publication le 24/07/2025. La précédente formule « aucune version signée retrouvée » ne doit donc pas être transformée en constat d’absence ; le PDF final direct du RAA reste à localiser."
+  },
+  {
+    "id": "55-cadre",
+    "title": "Arrêté préfectoral n° 2025-867 établissant le document-cadre photovoltaïque de la Meuse",
+    "region": "Grand Est",
+    "dept": "55",
+    "org": "Préfecture de la Meuse / Chambre d’agriculture de la Meuse",
+    "year": 2025,
+    "type": "Arrêté et document-cadre",
+    "status": "publié — portée à vérifier",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Loi APER",
+      "Cartographie",
+      "CDPENAF"
+    ],
+    "url": "https://www.meuse.gouv.fr/index.php/Publications/Recueil-des-Actes-Administratifs-RAA/RAA-annee-2025",
+    "pdf": "https://www.meuse.gouv.fr/contenu/telechargement/32381/233428/file/RAA%20n%C2%B051%20du%203%20juin%202025.pdf",
+    "summary": "Arrêté signé du 20 mai 2025, liste parcellaire, carte départementale, quatre cartes de détail et document-cadre de la Chambre d’agriculture réunis dans le RAA du 3 juin 2025.",
+    "utility": "Lire l’arrêté avec ses annexes signées pour identifier les quatre secteurs retenus et les conditions d’implantation.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "PDF officiel du RAA n° 51 reconnu (%PDF, 62 pages, 8,42 Mo). Les pages PDF 3 à 20 contiennent l’arrêté n° 2025-867 signé le 20 mai 2025, l’annexe 1 (Dieue-sur-Meuse, Euville, Muzeray et Neuville-sur-Ornain), l’annexe 2 avec carte générale et quatre cartes détaillées, puis le document-cadre. L’article 2 prévoit l’entrée en vigueur un mois après publication. Un PDF autonome de 18 pages, identique pour ces pièces et publié par la commune d’Ourches-sur-Meuse, a aussi été ouvert : https://www.ourches-sur-meuse.fr/userfile/fichier-telechargement/1750080827-2025_05_20_ap_n2025-867_signe_prefet.pdf"
+  },
+  {
+    "id": "55-charte",
+    "title": "Charte relative à la production d’énergie photovoltaïque au sol en Meuse",
+    "region": "Grand Est",
+    "dept": "55",
+    "org": "Signataires de la charte / Association des maires de Meuse",
+    "year": 2022,
+    "type": "Charte",
+    "status": "ancien",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Collectivités",
+      "Chambre d’agriculture"
+    ],
+    "url": "https://www.mairesdemeuse.com/environnement-et-developpement-durable",
+    "pdf": "https://www.mairesdemeuse.com/userfile/fichier-telechargement/1728553367-Charte-Photovoltaique-Meuse---2022.pdf",
+    "summary": "Charte signée en septembre 2022, antérieure à la loi APER et à son décret d’application.",
+    "utility": "Comprendre la doctrine locale historique en la distinguant du document-cadre préfectoral de 2025.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "PDF signé de quatre pages ouvert. La réserve antérieure selon laquelle aucune décision document-cadre n’avait été retrouvée est périmée : l’arrêté préfectoral n° 2025-867 du 20 mai 2025 figure au RAA n° 51 du 3 juin 2025."
+  },
+  {
+    "id": "57-consult",
+    "title": "Projet de document-cadre photovoltaïque au sol en Moselle",
+    "region": "Grand Est",
+    "dept": "57",
+    "org": "Préfecture de la Moselle / Chambre d’agriculture de la Moselle",
+    "year": 2026,
+    "type": "Projet de document-cadre",
+    "status": "projet",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Loi APER",
+      "Cartographie"
+    ],
+    "url": "https://www.moselle.gouv.fr/Actions-de-l-Etat/Energie/Energies-renouvelables/Planification-des-energies-renouvelables/Document-cadre/Consultation-du-document-cadre",
+    "pdf": "https://www.moselle.gouv.fr/contenu/telechargement/36137/276285/file/20250519_PROJET_DOCUMENT_CADRE_MOSELLE.pdf",
+    "summary": "Projet cartographique validé par le bureau de la Chambre d’agriculture le 19 décembre 2024 et soumis à consultation par la préfecture.",
+    "utility": "Source de travail provisoire ; contrôler la page préfectorale et le RAA avant tout usage comme cadre approuvé.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "PDF officiel de 49 pages ouvert ; il indique que le cadre doit être établi par arrêté préfectoral. La page préfectorale « Arrêté approuvant le document cadre », mise à jour le 13/03/2026, emploie encore le futur (« sera approuvé prochainement »). Le tableau indicatif CRE publié en 2026 ne donne pas de date pour la Moselle. Ces contrôles bornent l’incertitude mais ne prouvent pas qu’aucun acte n’a été pris ou publié ailleurs depuis."
+  },
+  {
+    "id": "59-consult",
+    "title": "Fascicule accompagnant la proposition de document-cadre photovoltaïque au sol du Nord",
+    "region": "Hauts-de-France",
+    "dept": "59",
+    "org": "Chambre d’agriculture Nord–Pas-de-Calais",
+    "year": 2024,
+    "type": "Projet de document-cadre",
+    "status": "projet",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Loi APER",
+      "Cartographie"
+    ],
+    "url": "https://www.nord.gouv.fr/Actions-de-l-Etat/Environnement/Information-et-participation-du-public/Les-projets-photovoltaiques/Consultation-du-public-Installation-photovoltaiques-sur-terres-agricoles-exploitees",
+    "pdf": "https://www.nord.gouv.fr/contenu/telechargement/101867/719881/file/20241125%20fascicule%20justifiant%20la%20proposition%20de%20document%20cadre%20de%20la%20CA%20%28Nord%29%20pptx-1.pdf",
+    "summary": "Fascicule de la Chambre d’agriculture justifiant la proposition cartographique soumise à consultation dans le Nord.",
+    "utility": "Lire avec la liste parcellaire ODS et la carte dynamique publiées sur la même page ; ne pas le traiter comme l’arrêté final.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "PDF officiel de 18 pages ouvert, daté du 25 novembre 2024. La page de consultation publie aussi une liste des parcelles au format ODS, une carte dynamique (https://umap.openstreetmap.fr/fr/map/photovoltaique-au-sol_1230518#9/50.5667/3.1256), un projet d’arrêté et un avis de participation signé. Le tableau indicatif CRE publié en 2026 ne donne pas de date pour le Nord. L’acte final reste donc non résolu dans ce réaudit, sans conclusion d’inexistence."
+  },
+  {
+    "id": "59-projet-arrete",
+    "title": "Projet d’arrêté préfectoral approuvant le document-cadre photovoltaïque du Nord",
+    "region": "Hauts-de-France",
+    "dept": "59",
+    "org": "Préfecture du Nord / DDTM",
+    "year": 2025,
+    "type": "Projet d’arrêté",
+    "status": "projet",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Loi APER",
+      "CDPENAF"
+    ],
+    "url": "https://www.nord.gouv.fr/Actions-de-l-Etat/Environnement/Information-et-participation-du-public/Les-projets-photovoltaiques/Consultation-du-public-Installation-photovoltaiques-sur-terres-agricoles-exploitees",
+    "pdf": "https://www.nord.gouv.fr/contenu/telechargement/101730/719089/file/25%2007%2010%20Projet%20AP%20Document%20Cadre.pdf",
+    "summary": "Projet d’arrêté mis à disposition lors de la consultation du public de 2025, mentionnant l’avis favorable de la CDPENAF du 15 mai 2025.",
+    "utility": "Documenter l’état avancé de la procédure tout en recherchant une version signée et sa publication au RAA.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "PDF officiel de deux pages ouvert ; le fichier est explicitement nommé « Projet AP » et ne comporte ni date d’arrêté ni signature. La page source demeure une consultation et le tableau indicatif CRE publié en 2026 ne donne pas de date pour le Nord. Cela justifie le statut « projet » de ce fichier précis, mais pas une affirmation générale d’absence d’arrêté."
+  }
+]

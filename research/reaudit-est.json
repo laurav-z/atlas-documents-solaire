@@ -1,0 +1,230 @@
+[
+  {
+    "id": "08-cadre",
+    "title": "Arrêté n° 2025-429 établissant le document-cadre photovoltaïque au sol des Ardennes",
+    "region": "Grand Est",
+    "dept": "08",
+    "org": "Préfecture des Ardennes / DDT des Ardennes",
+    "year": 2025,
+    "type": "Arrêté et document-cadre",
+    "status": "publié — portée à vérifier",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Loi APER",
+      "Cartographie"
+    ],
+    "url": "https://www.ardennes.gouv.fr/index.php/layout/set/print/Actions-de-l-Etat/Environnement/Energie-Climat/Les-energies-renouvelables/Document-Cadre-PV-au-sol",
+    "pdf": "https://www.ardennes.gouv.fr/index.php/contenu/telechargement/14503/102929/file/AP_Ardennes.pdf",
+    "summary": "L’arrêté signé le 4 juillet 2025, publié le 8 juillet, comprend l’annexe 1 cartographiant à l’échelle parcellaire les surfaces retenues après consultation.",
+    "utility": "Lire les articles de l’arrêté puis les planches de l’annexe 1 pour identifier l’entité graphique retenue ; la carte ne dispense pas de l’instruction du projet.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "Le RAA n° 8-2025-073 identifie l’acte 8-2025-07-04-00020, arrêté n° 2025-429. Son article 1 renvoie à l’annexe 1 ; les pages suivantes sont des planches intitulées « Annexe du document cadre — Cartographie des parcelles ». La page préfectorale ne publie qu’un PDF combiné de 8,75 Mo.",
+    "relatedLinks": [
+      {
+        "label": "Annexe 1 — cartographies des parcelles (dans le PDF combiné)",
+        "url": "https://www.ardennes.gouv.fr/index.php/contenu/telechargement/14503/102929/file/AP_Ardennes.pdf#page=5",
+        "kind": "Annexe PDF",
+        "verified": "2026-09-28"
+      }
+    ]
+  },
+  {
+    "id": "51-cadre",
+    "title": "Arrêté n° 51-2025-001 — Document Cadre 51, photovoltaïque au sol agri-compatible",
+    "region": "Grand Est",
+    "dept": "51",
+    "org": "Préfecture de la Marne / DDT de la Marne",
+    "year": 2025,
+    "type": "Arrêté et document-cadre",
+    "status": "publié — portée à vérifier",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Loi APER",
+      "Cartographie"
+    ],
+    "url": "https://www.marne.gouv.fr/index.php/Actions-de-l-Etat/Amenagement-du-territoire/Urbanisme/Document-Cadre-51-Photovoltaique-au-Sol-Agri-compatible",
+    "pdf": "https://www.marne.gouv.fr/index.php/contenu/telechargement/51307/365966/file/ap-051-2025-001-Marne.pdf",
+    "summary": "L’acte publié réunit les critères littéraux et l’annexe AP n° 51/2025/001 qui liste les surfaces cartographiées ; la carte interactive et la fiche de jeu de données sont publiées séparément.",
+    "utility": "Confronter la liste parcellaire à la carte Geo-IDE et aux critères littéraux, la page officielle précisant que la cartographie n’est pas exhaustive.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "La page préfectorale énumère trois composantes : arrêté, annexe listant les surfaces et cartographie. Le RAA n° 51-2025-128 contient l’annexe à partir de la page 6 et précise que l’acte 51-2025-07-25-00008 annule et remplace la publication antérieure. Entrée en vigueur annoncée au 4 septembre 2025.",
+    "relatedLinks": [
+      {
+        "label": "Annexe AP n° 51/2025/001 — liste des parcelles (RAA n° 51-2025-128, p. 6)",
+        "url": "https://www.marne.gouv.fr/contenu/telechargement/50309/360059/file/recueil-51-2025-128-recueil-des-actes-administratifs-1.pdf#page=6",
+        "kind": "Annexe PDF",
+        "verified": "2026-09-28"
+      },
+      {
+        "label": "Cartographie interactive du document-cadre",
+        "url": "https://carto2.geo-ide.din.developpement-durable.gouv.fr/frontoffice/?map=91bd85a6-665b-44bc-9133-771be338d7b7",
+        "kind": "Carte interactive",
+        "verified": "2026-09-28"
+      },
+      {
+        "label": "Métadonnées et accès au jeu de données Geo-IDE",
+        "url": "http://catalogue.geo-ide.developpement-durable.gouv.fr/catalogue/srv/fre/catalog.search#/metadata/fr-120066022-jdd-9ff3bc94-9550-49ab-a3be-f3d8f56af5f8",
+        "kind": "Jeu de données",
+        "verified": "2026-09-28"
+      }
+    ]
+  },
+  {
+    "id": "52-cadre",
+    "title": "Document-cadre photovoltaïque de la Haute-Marne — texte, cartes, liste parcellaire et annexe paysagère",
+    "region": "Grand Est",
+    "dept": "52",
+    "org": "Préfecture de la Haute-Marne / Chambre d’agriculture Aube & Haute-Marne",
+    "year": 2025,
+    "type": "Document-cadre",
+    "status": "publié — portée à vérifier",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Loi APER",
+      "Cartographie",
+      "Paysage"
+    ],
+    "url": "https://www.haute-marne.gouv.fr/index.php/Actions-de-l-Etat/Amenagement-du-territoire-urbanisme/Energies-renouvelables/Document-cadre-sur-le-photovoltaique-au-sol",
+    "pdf": "https://www.haute-marne.gouv.fr/index.php/contenu/telechargement/29605/223913/file/20250627_Document%20cadre%20Art%20L111-29%20-%20Haute%20Marne.pdf",
+    "summary": "Version modifiée après consultation : méthode, quatre sites totalisant 14,87 ha, carte générale, cartes par site, liste des parcelles cadastrales et annexe 1 consacrée à l’intégration paysagère.",
+    "utility": "Identifier les quatre entités retenues, leurs parcelles et surfaces, puis appliquer les recommandations paysagères annexées au document final.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "Le RAA n° 65 du 8 août 2025 reproduit l’arrêté n° 52-2025-07-00173 et son document annexé. Celui-ci annonce quatre sites sur Bettancourt-la-Ferrée, Chamouilley, Rolampont et Valcourt, comporte une cartographie générale, quatre cartes de site, une liste cadastrale et l’« Annexe 1 : charte paysagère ». La page officielle fournit séparément l’arrêté et le document-cadre de 5,72 Mo.",
+    "relatedLinks": [
+      {
+        "label": "Cartographie générale, cartes par site et liste cadastrale (dans le PDF)",
+        "url": "https://www.haute-marne.gouv.fr/index.php/contenu/telechargement/29605/223913/file/20250627_Document%20cadre%20Art%20L111-29%20-%20Haute%20Marne.pdf#page=9",
+        "kind": "Annexe PDF",
+        "verified": "2026-09-28"
+      },
+      {
+        "label": "Annexe 1 — charte paysagère (dans le PDF)",
+        "url": "https://www.haute-marne.gouv.fr/index.php/contenu/telechargement/29605/223913/file/20250627_Document%20cadre%20Art%20L111-29%20-%20Haute%20Marne.pdf#page=17",
+        "kind": "Annexe PDF",
+        "verified": "2026-09-28"
+      },
+      {
+        "label": "Observatoire départemental des friches cité par le document-cadre",
+        "url": "https://www.haute-marne.gouv.fr/index.php/Actions-de-l-Etat/Amenagement-du-territoire-urbanisme/Observatoire-departemental-des-friches",
+        "kind": "Carte interactive",
+        "verified": "2026-09-28"
+      }
+    ]
+  },
+  {
+    "id": "54-cadre",
+    "title": "Arrêté approuvant le document-cadre photovoltaïque de Meurthe-et-Moselle",
+    "region": "Grand Est",
+    "dept": "54",
+    "org": "Préfecture de Meurthe-et-Moselle / Chambre d’agriculture de Meurthe-et-Moselle",
+    "year": 2026,
+    "type": "Arrêté et document-cadre",
+    "status": "publié — portée à vérifier",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Loi APER",
+      "Méthodologie"
+    ],
+    "url": "https://www.meurthe-et-moselle.gouv.fr/index.php/Actions-de-l-Etat/Environnement/Energies-renouvelables/Document-cadre-agricole/Document-cadre-agricole",
+    "pdf": "https://www.meurthe-et-moselle.gouv.fr/index.php/contenu/telechargement/36375/274404/file/AP_signe_document_cadre_photovoltaique.pdf",
+    "summary": "Le document-cadre conclut que le département ne retient pas de surfaces cadastrales supplémentaires comme terres incultes ; le périmètre repose sur les catégories de l’article R.111-58, dont l’identification cadastrale n’est pas requise.",
+    "utility": "Comprendre la méthode départementale et vérifier qu’un terrain relève effectivement d’une catégorie de l’article R.111-58, sans attendre un atlas parcellaire qui n’est pas prévu par cette méthode.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "La page officielle publie un unique PDF signé de 5,51 Mo. Le document-cadre de la Chambre d’agriculture, validé en session le 25 novembre 2024 et publié dans le dossier de consultation, indique qu’aucune terre inculte n’a été retenue hors terrains pollués, inexploitables ou artificialisés et rappelle l’exemption de cartographie des surfaces de l’article R.111-58. La recherche n’établit donc pas l’existence d’un atlas cadastral séparé et n’en affirme pas l’absence absolue.",
+    "relatedLinks": [
+      {
+        "label": "Texte méthodologique soumis à consultation en 2025",
+        "url": "https://www.meurthe-et-moselle.gouv.fr/contenu/telechargement/35470/267733/file/Projet_document_cadre_54v2.pdf",
+        "kind": "Version de consultation",
+        "verified": "2026-09-28"
+      }
+    ]
+  },
+  {
+    "id": "67-cadre",
+    "title": "Document-cadre photovoltaïque au sol du Bas-Rhin",
+    "region": "Grand Est",
+    "dept": "67",
+    "org": "Préfecture du Bas-Rhin / Chambre d’agriculture d’Alsace",
+    "year": 2025,
+    "type": "Document-cadre",
+    "status": "publié — portée à vérifier",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Loi APER",
+      "Méthodologie"
+    ],
+    "url": "https://www.bas-rhin.gouv.fr/Actions-de-l-Etat/Environnement/Photovoltaique/Document-cadre-sur-le-photovoltaique-au-sol",
+    "pdf": "https://www.bas-rhin.gouv.fr/contenu/telechargement/58922/422368/file/Document-cadre%20PV.pdf",
+    "summary": "Document-cadre alsacien final : après tests cartographiques, il ne retient pas d’identification parcellaire complémentaire et ouvre les seules typologies de terrains de l’article R.111-58, sous réserve des conditions d’inculture ou de non-exploitation.",
+    "utility": "Qualifier le terrain par ses caractéristiques réglementaires et produire les justificatifs demandés ; le document ne fournit pas un atlas parcellaire à consulter.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "La page finale du Bas-Rhin publie séparément l’arrêté, le document-cadre et l’avis CDPENAF. La proposition alsacienne annexée à la consultation expose les tests cartographiques et la décision de ne pas retenir d’approche parcellaire, faute de sites assurément incultes ou non exploités depuis dix ans hors catégories de l’article R.111-58. Aucun constat d’absence générale de données n’est formulé.",
+    "relatedLinks": []
+  },
+  {
+    "id": "68-cadre",
+    "title": "Document-cadre pour le développement des installations photovoltaïques au sol en Alsace — Haut-Rhin",
+    "region": "Grand Est",
+    "dept": "68",
+    "org": "Préfecture du Haut-Rhin / Chambre d’agriculture d’Alsace",
+    "year": 2025,
+    "type": "Document-cadre",
+    "status": "publié — portée à vérifier",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Loi APER",
+      "Méthodologie"
+    ],
+    "url": "https://www.haut-rhin.gouv.fr/Actions-de-l-Etat/Agriculture-foret-et-developpement-rural/CDPENAF-Commission-de-preservation-des-espaces-naturels-agricoles-et-forestiers",
+    "pdf": "https://www.haut-rhin.gouv.fr/contenu/telechargement/49961/352641/file/Document_cadre_alsace_V1_08jan2025.pdf",
+    "summary": "Document-cadre alsacien de treize pages : les tests cartographiques conduisent à ne retenir aucune approche parcellaire complémentaire ; les terrains ouverts sont ceux des quatorze typologies de l’article R.111-58.",
+    "utility": "Qualifier le terrain au regard des typologies et exclusions du document, sans interpréter l’absence de carte parcellaire comme une pièce manquante.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "PDF officiel de treize pages ouvert et extrait. La section II.c est intitulée « Décision de ne pas retenir d’approche parcellaire » et précise qu’une cartographie parcellaire ne serait pas pertinente. Le fichier publié est byte-identique au fichier de consultation d’avril 2025 ; l’arrêté final du 15 mai 2025 est établi séparément au RAA du 22 mai.",
+    "relatedLinks": []
+  },
+  {
+    "id": "88-cadre",
+    "title": "Arrêté n° 219/2025 établissant le document-cadre photovoltaïque au sol des Vosges",
+    "region": "Grand Est",
+    "dept": "88",
+    "org": "Préfecture des Vosges / DDT des Vosges",
+    "year": 2025,
+    "type": "Arrêté et document-cadre",
+    "status": "publié — portée à vérifier",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Loi APER",
+      "Cartographie"
+    ],
+    "url": "https://www.vosges.gouv.fr/Actions-de-l-Etat/Agriculture-Foret/Phovoltaique-au-sol-et-agrivoltaisme",
+    "pdf": "https://www.vosges.gouv.fr/contenu/telechargement/32590/255398/file/20252307%20ARRETE%20SIGNE.pdf",
+    "summary": "L’arrêté 219/2025 répertorie les parcelles à l’article 2 et contient une annexe graphique qui délimite les entités éligibles, lesquelles peuvent ne pas coïncider avec les parcelles cadastrales entières.",
+    "utility": "Lire ensemble l’article 2 et l’annexe graphique avant toute vérification foncière ; la page officielle avertit que les contours éligibles peuvent être infraparcellaires.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "La page préfectorale indique explicitement que l’annexe de l’arrêté identifie les entités éligibles sous forme de graphiques. Le RAA du 23 juillet 2025 publie l’acte 88-2025-07-23-00001. La page ne présente pas l’annexe comme un fichier séparé : elle est comprise dans le PDF signé.",
+    "relatedLinks": [
+      {
+        "label": "Annexe graphique des entités éligibles (dans le PDF signé)",
+        "url": "https://www.vosges.gouv.fr/contenu/telechargement/32590/255398/file/20252307%20ARRETE%20SIGNE.pdf",
+        "kind": "Annexe PDF",
+        "verified": "2026-09-28"
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "capturedAt": "2026-09-28T17:20:10.373Z",
+  "files": [
+    {
+      "file": "departements.geojson",
+      "sha256": "6172049771c5f7546ee604b89931d1024705bcc82626902c8b25984b7605bec5"
+    },
+    {
+      "file": "dm-sans-latin.woff2",
+      "sha256": "9fea608a947e67020c33cad9a6fe3d60c54119dfb8cff87768a8117a15ed7543"
+    },
+    {
+      "file": "FONT-LICENSE.txt",
+      "sha256": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1"
+    },
+    {
+      "file": "favicon.svg",
+      "sha256": "de1cd98129b82c00d74f821e952daf5338a80fc4de3addd75c0c96c9750b4d33"
+    }
+  ]
+}

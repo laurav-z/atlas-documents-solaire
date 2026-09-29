@@ -1,0 +1,15 @@
+{
+  "name": "atlas-solaire",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Bibliothèque photovoltaïque locale — Grand Est et Hauts-de-France",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check:links": "node scripts/check-links.mjs",
+    "sources": "node scripts/source-register.mjs"
+  }
+}

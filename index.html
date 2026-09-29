@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#183e34">
+  <meta name="description" content="Les documents de référence pour vos projets photovoltaïques et agrivoltaïques en Grand Est et Hauts-de-France. Carte par département et accès direct aux PDF.">
+  <title>Atlas solaire — Documents photovoltaïques et agrivoltaïques</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="./assets/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#bibliotheque">Aller aux documents</a>
+  <header class="site-header"><div class="header-inner">
+    <a class="brand" href="./" aria-label="Atlas solaire, accueil"><img src="./assets/favicon.svg" alt="" width="38" height="38"><span>atlas<span class="brand-light">solaire</span><small>LA BIBLIOTHÈQUE DU PHOTOVOLTAÏQUE</small></span></a>
+    <nav aria-label="Navigation principale"><a href="#bibliotheque" class="nav-current">La bibliothèque</a><button id="method-button">Notre méthode <span aria-hidden="true">↗</span></button><button id="favorites-button" class="saved-button" aria-pressed="false"><span aria-hidden="true">☆</span> Ma sélection <span id="saved-count">0</span></button></nav>
+  </div></header>
+  <main>
+    <section class="hero page-width" aria-labelledby="hero-title">
+      <div class="hero-copy"><div class="eyebrow"><span class="live-dot"></span> GRAND EST & HAUTS-DE-FRANCE</div>
+        <h1 id="hero-title">Documents photovoltaïques<br>& agrivoltaïques</h1>
+        <p>Retrouvez les documents-cadres, arrêtés, chartes et guides institutionnels<br class="desktop-br"> du Grand Est et des Hauts-de-France dans une même bibliothèque.</p>
+        <div class="hero-stats"><div><strong id="total-count">—</strong><span>documents PDF</span></div><div><strong>15</strong><span>départements</span></div><div><strong>2</strong><span>régions à explorer</span></div></div>
+      </div>
+      <div class="map-panel"><div class="map-heading"><div><span class="eyebrow" id="map-step">1 · RÉGION</span><h2 id="map-title">Sélectionnez votre région</h2></div><div class="map-actions"><button id="map-reset" class="map-back" hidden>← Toutes les régions</button><a id="map-results" href="#bibliotheque">Voir les documents ↓</a></div></div>
+        <div class="map-stage" id="map-stage"><p class="loading">Chargement de la carte…</p></div>
+        <div class="map-hint" id="map-hint" aria-live="polite">Sélectionnez Grand Est ou Hauts-de-France pour afficher ses départements.</div>
+        <div class="map-legend"><button data-region="Hauts-de-France"><i class="legend-dot north"></i>Hauts-de-France <span>5</span></button><button data-region="Grand Est"><i class="legend-dot east"></i>Grand Est <span>10</span></button></div>
+        <span class="map-caption">France · limites départementales · <span class="muted">zones grises hors périmètre</span></span>
+      </div>
+    </section>
+    <section class="library-section" id="bibliotheque" aria-labelledby="library-title"><div class="page-width">
+      <div class="section-heading"><div><div class="eyebrow">BIBLIOTHÈQUE DOCUMENTAIRE</div><h2 id="library-title">Les documents de votre territoire</h2></div><span class="inventory-date" id="inventory-date">Inventaire en cours de chargement</span></div>
+      <div class="search-row"><div class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Un sujet, un département, un organisme…" aria-label="Rechercher un document"><kbd>/</kbd></div><button id="advanced-toggle" class="filter-toggle" aria-expanded="false" aria-controls="advanced-filters"><span aria-hidden="true">☷</span> Filtres <span id="filter-count"></span></button></div>
+      <div class="topic-row" role="group" aria-label="Filtrer par sujet"><button class="topic active" data-topic="">Tout explorer</button><button class="topic" data-topic="Agrivoltaïsme">Agrivoltaïsme</button><button class="topic" data-topic="Document-cadre">Documents-cadres</button><button class="topic" data-topic="Environnement">Environnement</button><button class="topic" data-topic="Paysage">Paysage & patrimoine</button><button class="topic" data-topic="Réglementation nationale">Cadre national</button></div>
+      <div id="advanced-filters" class="advanced-filters" hidden><label>Type de document<select id="type-filter"><option value="">Tous les types</option></select></label><label>Organisme<select id="org-filter"><option value="">Tous les organismes</option></select></label><label>Année de publication<select id="year-filter"><option value="">Toutes les années</option></select></label><label>Statut du document<select id="status-filter"><option value="">Tous les statuts</option></select></label></div>
+      <div class="library-layout"><aside class="territory-sidebar" aria-label="Filtrer par territoire"><div class="sidebar-title">TERRITOIRES <button id="reset" title="Effacer tous les filtres">Tout effacer</button></div><button class="all-territories selected" data-territory="">Tous les territoires <span>↗</span></button><div id="department-list"></div><div class="sidebar-note"><span aria-hidden="true">ⓘ</span><p>Une région affiche ses publications régionales. Un département affiche ses propres documents. Les références complémentaires s’ajoutent séparément.</p></div></aside>
+      <div class="results-area"><div class="scope-controls" role="group" aria-label="Ajouter des références complémentaires"><button id="include-regional" class="scope-button" aria-pressed="false" hidden>Ajouter les documents régionaux</button><button id="include-national" class="scope-button" aria-pressed="false">＋ Ajouter les documents nationaux</button></div><div class="results-toolbar"><div><h3 id="results-count" aria-live="polite" aria-atomic="true">Chargement…</h3><p id="results-context">Documents départementaux et régionaux des deux régions</p></div><label class="sort-label"><span class="sr-only">Trier les documents</span><select id="sort"><option value="recommended">À découvrir d’abord</option><option value="newest">Les plus récents</option><option value="title">De A à Z</option></select></label><button id="export" class="icon-button" title="Exporter les résultats en CSV" aria-label="Exporter les résultats en CSV">↓</button></div><div id="active-filters"></div><div id="documents" class="document-grid" aria-busy="true"></div><div class="result-footer"><p id="result-footer-text"></p><button id="share" class="text-button">Copier cette recherche <span aria-hidden="true">↗</span></button></div></div></div>
+    </div></section>
+    <section class="method-strip page-width"><div class="method-symbol" aria-hidden="true">▤</div><div><h2>Sources et vérifications</h2><p>Les liens, dates de contrôle et réserves documentaires<br>sont conservés dans un registre actualisable.</p></div><a href="./SOURCES.md" target="_blank" rel="noopener">Consulter le registre des sources <span aria-hidden="true">↗</span></a></section>
+  </main>
+  <footer class="site-footer page-width"><span>atlas<strong>solaire</strong> <span class="footer-divider">/</span> Bibliothèque photovoltaïque et agrivoltaïque</span><span>Grand Est & Hauts-de-France · Édition locale</span></footer>
+  <dialog id="method-dialog" aria-labelledby="method-title"><button class="dialog-close icon-button" aria-label="Fermer">×</button><div class="eyebrow">LA MÉTHODE ATLAS SOLAIRE</div><h2 id="method-title">Méthode de référencement</h2><p>Cette bibliothèque recense des documents photovoltaïques et agrivoltaïques pour les 15 départements du Grand Est et des Hauts-de-France, avec les références nationales utiles.</p><ol><li><strong>Une publication identifiable.</strong> Préfectures, DREAL, chambres d’agriculture et organismes publics sont privilégiés.</li><li><strong>Le PDF directement.</strong> Le titre et le bouton principal ouvrent le fichier original. La page de publication reste disponible dans « Source & vérification ».</li><li><strong>Une vérification traçable.</strong> Le registre distingue la recherche documentaire, le contrôle technique du lien et le statut du texte. Un PDF accessible ne prouve pas qu’il est encore applicable.</li></ol><p>La recherche vise une couverture large, sans garantie d’exhaustivité. Les consultations et les documents anciens sont identifiés. Vérifiez les règles applicables et les annexes auprès de l’autorité compétente.</p><p>Votre sélection est enregistrée dans ce navigateur. Aucune connexion ni transmission de vos recherches. L’interface, les polices et la carte sont hébergées localement ; les PDF s’ouvrent chez leur éditeur.</p><a class="primary-button" href="./SOURCES.md" target="_blank" rel="noopener">Ouvrir le registre daté ↗</a></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <noscript><p class="noscript">Activez JavaScript pour utiliser les filtres et la carte. Le <a href="./SOURCES.md">registre des sources</a> reste accessible sans JavaScript.</p></noscript>
+</body>
+</html>

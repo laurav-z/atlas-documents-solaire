@@ -1,0 +1,139 @@
+[
+  {
+    "id": "02-annexes-cadre",
+    "title": "Liste signée des annexes à l’arrêté TE-26-002",
+    "region": "Hauts-de-France",
+    "dept": "02",
+    "org": "Préfecture de l’Aisne / DDT",
+    "year": 2026,
+    "type": "Annexe au document-cadre",
+    "status": "publié — portée à vérifier",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Cartographie",
+      "Loi APER"
+    ],
+    "url": "https://www.aisne.gouv.fr/Actions-de-l-Etat/Consultations-et-Enquetes-publiques/Consultations-publiques/Energie/Document-cadre-photovoltaique/Document-cadre-photovoltaique",
+    "pdf": "https://www.aisne.gouv.fr/contenu/telechargement/49997/370574/file/LISTE_ANNEXES_TE_26_002_SIGNEE.pdf",
+    "summary": "Bordereau signé qui énumère les cinq annexes validées : note explicative, notice réglementaire, rapport de synthèse, atlas cartographique et tableau parcellaire.",
+    "utility": "Contrôler la composition du document-cadre et accéder à l’atlas communal et au tableau parcellaire publiés séparément.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "PDF officiel d’une page ouvert et reconnu par signature. La page préfectorale renvoie expressément vers Pays Aisne pour les cartes. Cette page publie un tableau parcellaire XLSX et 798 liens PDF libellés par commune : 796 sous Atlas_cartographique et deux liens courants dont le chemin de stockage contient Cartes__obselete_. Ce nom de dossier ne suffit pas à déclarer ces deux cartes périmées, puisqu’elles restent proposées dans la liste courante.",
+    "relatedLinks": [
+      {
+        "label": "Atlas cartographique communal — index des 798 PDF",
+        "url": "https://pays-aisne.org/territoires/consultation-en-cours/",
+        "kind": "Atlas PDF par commune",
+        "verified": "2026-09-28"
+      },
+      {
+        "label": "Tableau identifiant les parcelles éligibles",
+        "url": "https://pays-aisne.org/fileadmin/user_upload/329_pays_aisne/Fichiers_doc_cadre/Document_cadre_version_definitive/Tableau_identifiant_les_parcelles_eligibles_aux_installations_photovoltaiques.xlsx",
+        "kind": "Tableur XLSX",
+        "verified": "2026-09-28"
+      }
+    ]
+  },
+  {
+    "id": "60-cadre",
+    "title": "Arrêté préfectoral approuvant le document-cadre photovoltaïque de l’Oise",
+    "region": "Hauts-de-France",
+    "dept": "60",
+    "org": "Préfecture de l’Oise / DDT",
+    "year": 2025,
+    "type": "Arrêté préfectoral",
+    "status": "publié — portée à vérifier",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Loi APER",
+      "CDPENAF"
+    ],
+    "url": "https://www.oise.gouv.fr/Actions-de-l-Etat/Amenagement-durable-du-territoire/Transition-Ecologique-et-Energetique/Document-cadre-photovoltaique/Le-document-cadre-photovoltaique",
+    "pdf": "https://www.oise.gouv.fr/contenu/telechargement/89724/647126/file/AP%20concernant%20le%20document%20cadre%20photovolta%C3%AFque.pdf",
+    "summary": "Arrêté qui approuve le document-cadre et sa cartographie pour l’Oise.",
+    "utility": "Base juridique pour vérifier l’éligibilité foncière d’un projet non agrivoltaïque, avec la notice et la webcartographie officielles.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "PDF officiel de deux pages, signé à Beauvais le 12 juin 2025, reconnu par signature. La page finale de la préfecture énumère séparément la webcartographie, l’arrêté signé et la notice ; la carte Geo-IDE répondait en HTTP 200 le 28 septembre 2026.",
+    "relatedLinks": [
+      {
+        "label": "Webcartographie du document-cadre de l’Oise",
+        "url": "https://carto2.geo-ide.din.developpement-durable.gouv.fr/frontoffice/?map=211bd9a4-c130-4639-b52e-6b6838900589",
+        "kind": "Carte interactive",
+        "verified": "2026-09-28"
+      }
+    ]
+  },
+  {
+    "id": "62-cadre",
+    "title": "Arrêté n°62-2025-12-19-00006 du 19 décembre 2025 relatif au document-cadre photovoltaïque du Pas-de-Calais",
+    "region": "Hauts-de-France",
+    "dept": "62",
+    "org": "Préfecture du Pas-de-Calais",
+    "year": 2025,
+    "type": "Arrêté préfectoral et annexes",
+    "status": "publié — portée à vérifier",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Loi APER",
+      "Cartographie"
+    ],
+    "url": "https://www.pas-de-calais.gouv.fr/index.php/Actions-de-l-Etat/Environnement-developpement-durable/Energie/Photovoltaique/Document-cadre",
+    "pdf": "https://www.pas-de-calais.gouv.fr/index.php/contenu/telechargement/83896/526887/file/Recueil%20des%20actes%20administratifs%20n%C2%B0352%20en%20date%20du%2024%20d%C3%A9cembre%202025.pdf",
+    "summary": "Arrêté final et annexes du document-cadre, publiés au recueil des actes administratifs n°62-2025-352.",
+    "utility": "Remplace le projet soumis à consultation ; le bloc utile commence à la page 21 du recueil PDF.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "Recueil PDF officiel de 47 pages reconnu par signature ; son sommaire et la page 21 identifient l’arrêté final 62-2025-12-19-00006, publié le 24 décembre 2025. La page de consultation antérieure publie cinq PDF, annonce un tableau des parcelles et donne une carte Geo-IDE qui répondait en HTTP 200 le 28 septembre 2026. Cette carte reste qualifiée ici de carte de consultation tant que le recueil final ne confirme pas explicitement que son contenu est inchangé.",
+    "pdfPage": 21,
+    "relatedLinks": [
+      {
+        "label": "Cartographie dynamique publiée lors de la consultation",
+        "url": "https://carto2.geo-ide.din.developpement-durable.gouv.fr/frontoffice/?map=43f90ee9-1138-4a0f-b852-7d4d04c9cc99",
+        "kind": "Carte interactive — consultation",
+        "verified": "2026-09-28"
+      },
+      {
+        "label": "Dossier de consultation et tableau des parcelles",
+        "url": "https://www.pas-de-calais.gouv.fr/Publications/Consultation-du-public/Participation-du-public-par-voie-electronique/Projets-photovoltaiques-dans-le-Pas-de-Calais",
+        "kind": "Page de consultation",
+        "verified": "2026-09-28"
+      }
+    ]
+  },
+  {
+    "id": "80-notice",
+    "title": "Notice et cartographie des zones d’implantation photovoltaïque au sol dans la Somme",
+    "region": "Hauts-de-France",
+    "dept": "80",
+    "org": "Chambre d’agriculture de la Somme / Préfecture de la Somme",
+    "year": 2025,
+    "type": "Notice",
+    "status": "publié — portée à vérifier",
+    "tags": [
+      "Photovoltaïque au sol",
+      "Foncier agricole",
+      "Cartographie",
+      "Méthodologie"
+    ],
+    "url": "https://www.somme.gouv.fr/Actions-de-l-Etat/Environnement/Photovoltaique/Participations-du-public-par-voie-electronique-et-decisions/Document-cadre-relatif-aux-installations-photovoltaiques-au-sol",
+    "pdf": "https://www.somme.gouv.fr/contenu/telechargement/54398/357948/file/2025_0808_V2_Doc_Cadre_80_SOMME_Notice_2024.pdf",
+    "summary": "Notice de 22 pages intégrée au document-cadre, avec méthode de sélection, catégories de terrains, conditions et cartes départementales.",
+    "utility": "Interpréter la carte et comprendre les critères qui s’imposent aux porteurs de projets.",
+    "importance": true,
+    "verified": "2026-09-28",
+    "evidence": "PDF officiel de 22 pages reconnu par signature et republié sur la page de décision avec l’arrêté approuvé le 3 décembre 2025. La même page expose la carte Geo-IDE du dossier ; elle répondait en HTTP 200 le 28 septembre 2026.",
+    "relatedLinks": [
+      {
+        "label": "Cartographie dynamique du document-cadre de la Somme",
+        "url": "https://carto2.geo-ide.din.developpement-durable.gouv.fr/frontoffice/?map=47ea9192-d308-48e8-9ebd-407dea38ba57",
+        "kind": "Carte interactive",
+        "verified": "2026-09-28"
+      }
+    ]
+  }
+]
